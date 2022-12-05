@@ -26,4 +26,5 @@ void loop() {
   Serial.println("anlge is");// display message on serial monitor:
   Serial.println(angle);// display value
 
+
 }
